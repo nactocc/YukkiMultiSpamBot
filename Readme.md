@@ -1,7 +1,7 @@
 # Yukki Multi Spam Bot 
 
 <p align="center">
-  <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
+  <img src="https://telegra.ph/file/5d152c1c0c89564770551.jpg">
 </p>
 
 ## 🚀 Deploy on Heroku 
